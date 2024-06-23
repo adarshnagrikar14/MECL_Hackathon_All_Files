@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Plot</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        function plotData(csvData) {
+            // Parse CSV data
+            var lines = csvData.split('\n');
+            var data = [];
+            for (var i = 1; i < lines.length; i++) {
+                var line = lines[i].split(',');
+                data.push({ longitude: parseFloat(line[0]), latitude: parseFloat(line[1]), sio2: parseFloat(line[2]) });
+            }
+
+            // Create Three.js scene
+            var scene = new THREE.Scene();
+            var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+            var renderer = new THREE.WebGLRenderer();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            document.body.appendChild(renderer.domElement);
+
+            // Create points geometry and material
+            var geometry = new THREE.Geometry();
+            var material = new THREE.PointsMaterial({ color: 0xff0000, size: 1 });
+
+            // Add points to geometry based on CSV data
+            for (var i = 0; i < data.length; i++) {
+                var point = new THREE.Vector3(data[i].longitude, data[i].latitude, data[i].sio2);
+                geometry.vertices.push(point);
+            }
+
+            // Create points object and add it to the scene
+            var points = new THREE.Points(geometry, material);
+            scene.add(points);
+
+            // Set camera position
+            camera.position.z = 5;
+
+            // Render loop
+            function animate() {
+                requestAnimationFrame(animate);
+                renderer.render(scene, camera);
+            }
+            animate();
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,198 @@
+{
+ "role": "user",
+ "parts": [
+	"The Mines and Minerals (Development and Regulation) Act, 1957, established by the Parliament of India, aims to regulate and develop mines and minerals under the control of the Union government. It came into force on a date specified by the Central Government through notification in the Official Gazette.
+The Act begins by defining its scope and applicability across India. It declares the Union's control over the regulation and development of mines and minerals as being in the public interest. Key definitions under the Act include mining lease, mining operations, minor minerals, prospecting license, prospecting operations, and others essential for understanding its implementation.
+The Act categorizes minerals into major and minor categories, with provisions for exploration, prospecting, and mining operations. It outlines the process for granting leases and licenses, specifying conditions and regulations that govern each stage from exploration to extraction.
+Moreover, the Act incorporates provisions for environmental protection, safety regulations, and equitable distribution of mineral resources. It establishes frameworks for monitoring compliance, resolving disputes, and ensuring sustainable development practices in the mining sector.
+Overall, the Mines and Minerals (Development and Regulation) Act, of 1957, provides a comprehensive regulatory framework essential for managing India's mineral wealth while ensuring it benefits national development sustainably and equitably.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"The provisions regarding general restrictions on undertaking prospecting and mining operations in India are governed by the Mines and Minerals (Development and Regulation) Act, which lays down comprehensive guidelines to ensure orderly and regulated extraction of minerals. According to Section 4 of the Act, no individual or entity is permitted to engage in reconnaissance, prospecting, or mining activities within any area without obtaining the requisite licenses or leases as prescribed under the Act and its accompanying rules. These licenses include reconnaissance permits, prospecting licenses, or mining leases, each granted under specific terms and conditions stipulated by the Central Government.
+
+The Act recognizes certain exceptions to this rule. It allows ongoing prospecting or mining operations that were initiated in compliance with the terms of licenses or leases granted before the Act's commencement and still valid at that time. Additionally, the Geological Survey of India, the Indian Bureau of Mines, the Atomic Minerals Directorate for Exploration and Research, State Directorates of Mining and Geology, and the Mineral Exploration Corporation Limited are authorized to conduct prospecting operations under the Act's provisions.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Moreover, the Act empowers the Central Government, in consultation with State Governments, to prematurely terminate prospecting licenses or mining leases under specific circumstances deemed crucial for the regulation of mining activities, environmental preservation, flood control, pollution prevention, public health and safety, and conservation of mineral resources. This termination can occur if the license or lease holder fails to undertake production or discontinues production for a specified period.
+Furthermore, the Act outlines stringent conditions for the efficient storage and transportation of minerals, ensuring compliance with environmental and safety standards. It mandates that no mineral concession shall be granted except under the Act and the rules framed thereunder, emphasizing the importance of legal compliance and regulatory oversight in mineral extraction.
+In terms of area allocation, the Act imposes limits on the maximum area that can be covered under prospecting licenses or mining leases to prevent monopolistic practices and ensure equitable distribution of mining rights. Special provisions allow for adjustments to these limits under certain conditions, subject to approval by the Central Government, to facilitate the development of specific minerals or categories of mineral deposits.
+",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Moreover, the Act specifies the duration for which prospecting licenses and mining leases can be granted or renewed, with the Central Government playing a pivotal role in approving renewals for certain categories of minerals. Mining leases, depending on the mineral type, can be granted for up to thirty years initially and extended further with the Central Government's approval.
+Additionally, the Act addresses royalty payments, stipulating that holders of mining leases are required to pay royalties based on the quantity of minerals extracted, as outlined in the Second Schedule of the Act. The Central Government retains the authority to revise royalty rates periodically to reflect market conditions and mineral valuation changes.
+Overall, the Mines and Minerals (Development and Regulation) Act establishes a robust framework aimed at promoting sustainable mineral development while safeguarding environmental integrity and ensuring fair utilization of mineral resources for the nation's economic advancement. It underscores the importance of legal compliance, environmental stewardship, and equitable resource distribution in the mining sector, essential for fostering responsible and balanced growth in India's mineral extraction industry.
+",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"The process for obtaining prospecting licenses or mining leases in India, particularly for lands where minerals are owned by the government, is governed by the Mines and Minerals (Development and Regulation) Act. According to Section 10 of the Act, any individual or entity wishing to secure a mineral concession must submit a formal application to the relevant State Government in the specified format, accompanied by the requisite fee. Upon receipt of such an application, the State Government is mandated to acknowledge its receipt within a defined timeframe and in the prescribed manner.
+Subsequently, under Section 10(3), the State Government has the authority to grant or refuse the permit, license, or lease, taking into account the provisions laid down in the Act and any associated rules. It is essential to note that eligibility to apply under this section is subject to specific conditions outlined in Section 10(4), which include selection through designated procedures or under specific Acts, ensuring transparency and fairness in the allocation process.
+Moreover, Section 10A addresses the rights of existing concession holders and applicants, stipulating that applications received before the commencement of certain amendments to the Act may become ineligible. However, the section also provides avenues for existing holders of reconnaissance permits or prospecting licenses to transition to obtaining prospecting licenses followed by mining leases, contingent upon meeting prescribed operational and regulatory criteria.
+",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Furthermore, Section 10B introduces provisions for granting mining leases through auctions, focusing primarily on notified minerals. It delineates the process wherein State Governments are required to notify areas suitable for mining leases after verifying the presence of mineral deposits. The selection of applicants for mining leases is conducted via competitive bidding methods, including e-auctions, with the Central Government overseeing the auction terms and conditions, which may incorporate parameters such as revenue sharing or other relevant considerations.
+In addition, Section 11 elaborates on the grant of composite licenses through similar auction processes, specifically for minerals other than those in the notified category. This ensures a structured approach to the allocation and utilization of non-notified mineral resources, thereby contributing to effective resource management and economic development.
+The Act also mandates the maintenance of registers for various stages of the licensing and leasing processes. These registers facilitate transparency and public access to information regarding applications, licenses, and permits issued under the Act, thereby promoting accountability and ensuring that the mineral sector operates by legal and regulatory frameworks.
+Overall, the Mines and Minerals (Development and Regulation) Act provides a robust framework for the management and regulation of mineral resources in India. It aims to promote sustainable development, environmental conservation, and equitable distribution of benefits from mineral extraction activities, thereby safeguarding national interests while facilitating responsible mining practices and economic growth.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"The Mines and Minerals (Development and Regulation) Act (MMDR Act), enacted by the Government of India, constitutes a comprehensive framework for the regulation and management of the country's mineral resources. The Act, originally passed in 1957 and subsequently amended to address evolving challenges and opportunities in the mining sector, governs the grant of prospecting licenses, mining leases, and other mineral concessions. This regulatory regime plays a crucial role in balancing the imperatives of economic development with environmental sustainability and social equity.
+Legislative Framework and Objectives
+The MMDR Act, under Section 13, empowers the Central Government to promulgate rules through notifications in the Official Gazette. These rules are instrumental in defining the procedures, conditions, and modalities for the grant and management of mineral concessions. The overarching objective is to ensure efficient utilization of mineral resources while safeguarding the interests of stakeholders, including the government, mining companies, local communities, and the environment.
+Procedural Requirements and Application Process.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Central to the regulatory framework are the procedural requirements for obtaining prospecting licenses and mining leases. The Act stipulates that applications for mineral concessions on land where minerals are vested in the government must be made in prescribed forms and manner. Applicants must comply with specific eligibility criteria, which may include financial solvency, technical capability, and adherence to environmental standards. The Act also mandates the payment of requisite fees and security deposits as part of the application process, aimed at ensuring financial commitment and compliance.
+Furthermore, the Act provides for competitive bidding processes for certain minerals, such as coal and lignite, through which mining leases are allocated. The rules governing these auctions are designed to enhance transparency, maximize revenue for the government, and promote fair competition among prospective miners. This auction mechanism has been pivotal in transforming the sector by attracting investments and optimizing resource allocation.
+Environmental and Social Safeguards
+Environmental sustainability is a cornerstone of the MMDR Act. The legislation mandates rigorous environmental impact assessments (EIAs) as part of the approval process for mining activities. Applicants are required to submit detailed plans for mitigating adverse environmental impacts, including measures for land reclamation, water management, and biodiversity conservation. The Act also stipulates the establishment of District Mineral Foundations (DMFs) in mining-affected areas to facilitate socio-economic development through the utilization of funds generated from mining royalties.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Moreover, the Act incorporates provisions for the rehabilitation and resettlement of communities affected by mining operations. It mandates the formulation of rehabilitation plans that ensure affected communities receive adequate compensation and support for livelihood restoration. This holistic approach underscores the government's commitment to sustainable development, aiming to minimize the negative social impacts of mining while maximizing the positive contributions to local economies.
+State-Level Regulations for Minor Minerals
+In addition to the central regulations, the MMDR Act empowers State Governments to formulate rules specific to minor minerals. These include quarry leases and other mineral concessions not covered under central oversight. State-level regulations mirror the comprehensive framework provided by the central Act, encompassing procedural requirements, environmental safeguards, and mechanisms for revenue generation and community welfare. This decentralized approach enables states to tailor regulations according to local geological conditions, socio-economic priorities, and environmental sensitivities.
+Administrative and Monitoring Mechanisms.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Effective implementation of the MMDR Act relies on robust administrative and monitoring mechanisms. The Act mandates the maintenance of registers to track the various stages of mining lease applications, approvals, and operational activities. This transparency mechanism enhances accountability and facilitates public scrutiny of mining operations. Additionally, the Act provides for periodic audits and inspections by designated authorities to ensure compliance with statutory provisions, environmental norms, and social commitments.
+Conclusion
+The Mines and Minerals (Development and Regulation) Act, through its comprehensive regulatory framework, plays a pivotal role in shaping India's mining sector. By balancing the imperatives of economic growth with environmental protection and social equity, the Act seeks to optimize mineral resource utilization while mitigating adverse impacts on ecosystems and communities. Moving forward, ongoing amendments and updates to the Act will continue to address emerging challenges and opportunities, ensuring sustainable development and inclusive growth in the mining industry.
+",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"The Mines and Minerals (Development and Regulation) Act of India provides the Central Government with significant powers under Section 17 to undertake prospecting or mining operations in specific circumstances where minerals are owned by state governments or other entities. This section applies to lands where mineral rights belong to the state, allowing the Central Government, after consulting with the respective State Government, to notify its intention to initiate mineral activities through a Gazette notification. This notification must delineate the boundaries of the area earmarked for operations, specify whether reconnaissance, prospecting, or mining activities will occur, and identify the particular minerals targeted for extraction. Financially, the Central Government assumes responsibilities equivalent to those of private entities under mineral concessions, including paying reconnaissance permit fees, prospecting fees, royalties, surface rent, or dead rent at rates established by the Act. 
+",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"Section 17A expands on these provisions by allowing the Central Government, in consultation with the State Government, to reserve areas for mineral conservation or for undertaking prospecting or mining operations through government-owned entities. These reservations are formalized through Gazette notifications specifying area boundaries and designated minerals. Government entities conducting operations in reserved areas must comply with competitive selection processes for joint venture partners and maintain majority ownership. The Act further mandates that mining leases granted to such entities adhere to payment conditions outlined in the Fifth Schedule, ensuring fair compensation to the state for mineral extraction. Timeliness is crucial under these provisions; mining leases must be granted within stipulated timeframes, with extensions possible under specific conditions to accommodate unforeseen delays. If no mining lease is granted within the prescribed period, the reservation lapses, unless extended by the State Government. Overall, Sections 17 and 17A of the MMDR Act empower the Central Government to strategically intervene in mineral-rich areas, aiming to balance economic development with environmental sustainability and equitable resource management in India's mining sector.
+
+",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"Section 18 of the Mines and Minerals (Development and Regulation) Act, India, mandates the Central Government to undertake comprehensive measures for the conservation and systematic development of minerals across the country, with a specific focus on protecting the environment from potential pollution caused by mining activities. To facilitate these objectives, the Central Government is empowered to formulate rules through official Gazette notifications. These rules encompass a wide array of regulatory aspects, including the establishment of new mines, the regulation of mining operations, the methods for excavation and collection of minerals, and requirements for beneficiation processes to enhance ore quality. Additionally, the rules prescribe procedures for notifying bore-hole data and preserving core samples, regulating mineral storage and stocks, and imposing obligations on mine owners to submit regular reports and returns.
+
+Furthermore, the rules delineate measures for managing prospecting operations, employing qualified professionals to oversee mining activities, and specifying protocols for handling mining waste to minimize environmental impact. Importantly, provisions also empower authorities to issue directives to mine owners aimed at conservation, systematic mineral development, and pollution prevention. The enactment requires strict adherence to prescribed plans, registers, and records, promoting transparency and accountability in mining operations. Moreover, it mandates the submission of detailed reports by entities engaged in prospecting or mining concerning geological and mining research activities, facilitating informed decision-making and resource management.",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"Section 18A introduces additional provisions allowing the Central Government to authorize bodies such as the Geological Survey of India to conduct detailed investigations on lands where prospecting licenses or mining leases are granted. These investigations aim to gather precise information on mineral deposits, crucial for effective mineral resource management. The authorized agencies have the authority to enter designated lands, conduct necessary excavations, and demarcate boundaries, albeit with provisions to compensate landowners for any damages incurred. Upon completion, these agencies submit comprehensive reports detailing the extent and nature of mineral deposits to the Central Government. The costs incurred in such investigations are borne by the Central Government, although provisions allow recovery of specified costs from relevant state governments or leaseholders requesting copies of the investigative reports.
+In conclusion, Sections 18 and 18A of the MMDR Act underscore the Central Government's proactive role in ensuring sustainable mineral development while safeguarding environmental interests. These legislative provisions not only establish robust regulatory frameworks but also empower responsible authorities to oversee and enforce compliance within India's mining sector, promoting balanced economic growth and environmental stewardship.",
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"The Mines and Minerals (Development and Regulation) Act, delineated through its various sections, establishes a comprehensive framework governing the acquisition, renewal, and regulation of mineral concessions across India. Central to its provisions is the stipulation that any mineral concession obtained in contravention of the Act or its accompanying rules shall be considered null and void. This underscores the Act's primary objective of ensuring adherence to legal norms and safeguarding the integrity of mineral resource management.
+The Act applies uniformly to the renewal of prospecting licenses and mining leases, whether granted before or after its enactment, thereby ensuring consistency and transparency in regulatory oversight. It empowers the Central Government to issue directives to state governments, particularly concerning mineral conservation, sustainable development practices, and policy matters of national interest. This authority extends to enhancing procedural efficiencies in granting mineral concessions and ensuring coordination among relevant agencies.",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"To enforce compliance, the Act imposes stringent penalties for violations, including imprisonment and substantial fines calculated per hectare of affected land. Moreover, it empowers state authorities to take decisive action against trespassers through eviction orders, with provisions for police assistance if necessary. Unauthorized mining activities are subject to confiscation of minerals, equipment, or vehicles involved, with subsequent disposal under court orders.
+In cases where offenses are compoundable, the Act allows for the payment of specified fines to settle legal proceedings, providing a mechanism for resolving minor infractions without prolonged litigation. Additionally, it grants authorized officers the power to conduct searches and seizures where there is reason to suspect illegal mining activities, following due process as stipulated in the Code of Criminal Procedure.
+The legislation upholds the rights of concession holders to conduct operations on granted lands while emphasizing their liability to compensate landowners for any damage caused during mining activities. Furthermore, it ensures that any rent, royalty, tax, or other dues owed to the government under the Act are recoverable as arrears of land revenue, thereby securing state revenues and promoting fiscal compliance.
+",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"Both the Central and State Governments are authorized to delegate powers under the Act, facilitating efficient implementation and administration. Rules framed under the Act are subject to parliamentary scrutiny, underscoring democratic oversight and accountability in mineral resource management. Legal protections are also extended to actions taken in good faith under the Act, shielding officials and stakeholders from unwarranted legal challenges.
+Special provisions within the Act cater to specific categories such as coal mining leases, offering flexibility in regulatory application to different mineral types and historical contexts. The establishment of Special Courts for expeditious adjudication of offenses further enhances the Act's enforcement capabilities, ensuring timely justice for violations.
+In conclusion, the Mines and Minerals (Development and Regulation) Act embodies a robust legal framework designed to foster sustainable mineral development while deterring illegal practices. It balances the imperatives of economic growth with environmental stewardship and social responsibility, aiming to optimize mineral resources for national benefit within a structured regulatory environment.",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"'THE FIRST SCHEDULE [sections 4(3), 5(1), 7(2) and 2[8(1), 8A(1), 10A, 10B(1), 10C(1), 11(1), 11B, 11C, 12A(1), and 17A(2A)]]
+SPECIFIED MINERALS PART A Hydro carbons/energy minerals 1. Coal and lignite.   PART B Atomic minerals 1. Beryl and other beryllium-bearing minerals. 2. Lithium-bearing minerals. 3. Minerals of the rare earths group containing Uranium and Thorium. 4. Niobium-bearing minerals. 5. Phosphorites and other phosphatic ores containing Uranium. 6. Pitchblende and other Uranium ores. 7. Titanium-bearing minerals and ores (ilmenite, rutile and leucoxene). 8. Tantallium-bearing minerals.
+9. Urani ferous allanite, monazite, and other thorium minerals. 10. Uranium-bearing tailings left over from ores after extraction of copper and gold, ilmenite, and other titanium ores. 4[11. Zirconium-bearing minerals and ores including Zircon.] 5[12. Beach sand minerals, that is, economic heavy minerals found in the teri or beach sands, which include ilmenite, rutile, leucoxene, garnet, monazite, zircon and sillimanite.] PART C: Metallic and non-metallic minerals 1. Asbestos. 2. Bauxite. 3. Chrome ore. 4. Copper ore. 5. Gold. 6. Iron ore. 9. Lead. 10. Manganese ore. 11. Precious stones. 12. Zinc.  1. Subs. by Act 25 of 1994, s. 12, for the First Schedule (w.e.f. 25-1-1994). -1-2015). 3. Subs. by Act 38 of 1999, s. 24, for item 7 (w.e.f. 18-12-1999). 4. Subs. by s. 24, ibid., for item 11 (w.e.f. 18-12-1999).
+5. Ins. by Notification No. S.O. 2356(E), dated 11th July, 2016. 6. Omitted by Act 38 of 1999, s. 24 (w.e.f. 18-12-1999). ",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"SECOND SCHEDULE (section 9) RATES OF ROYALTY IN RESPECT OF MINERALS AT ITEMS 1 TO 9, 11 TO 40 AND 42 TO 55   1. Apatite and Rock Phosphate: (i) Apatite Five percent. of average sale price on an ad valorem basis. (ii) Rock Phosphate (a) Above 25% P2O5 (b) Up to 25% P2O5 2. Asbestos: Twelve and a half percent. of average sale price on an ad valorem basis. Six percent. of the average sale price on an ad valorem basis.   (i) Chrysotile Eight Hundred and Eighty rupees per tonne. (ii) Amphibole Fifteen percent. of average sale price on an ad valorem basis. 3. Barytes: Six and a half percent. of the average sale price on an ad valorem basis. 4. Bauxite and Laterite:(a) Metallurgical Grade: Zero point six zero per cent. of London Metal Exchange Aluminium metal price chargeable on the contained aluminum metal in ore produced for those dispatched for use in alumina and aluminum metal extraction. (b) Non-Metallurgical Grade: Twenty-five percent. of the average sale price on an ad valorem basis for those dispatched for use other than alumina and aluminum metal extraction. 5. Brown Ilmenite (Leucoxene), Ilmenite, Rutile and Zircon: 6. Cadmium: Two percent. of the average sale price on an ad valorem basis. Fifteen percent. of the average sale price on an ad valorem basis. 7. Calcite: Fifteen percent. of average sale price on an ad valorem basis. 8. China clay or Kaolin: (including ball clay and white shale, white clay) (i) Crude	Eight percent. of the average sale price on an ad valorem basis. (ii) Processed(including washed) Twelve percent. of the average sale price on an ad valorem basis. 9. Clay others: Twenty rupees per tonne. 10. Coal (including Lignite):* 11. Chromite: Fifteen percent. of the average sale price on an ad valorem basis. 12. Columbite-tantalite: Ten percent. of average sale price on an ad valorem basis. 13. Copper: Four point six two percent. of London Metal Exchange Copper metal price chargeable on the contained copper metal in ore produced.14. Diamond: Eleven point five percent. of average sale price on ad valorem basis. 15. Dolomite: Seventy-five rupees per tonne. 16. Dunnite:	Thirty rupees per tonne. 17. Felspar:	Fifteen per cent. of average sale price on an ad valorem basis. 18. Fire Clay: (including plastic, pipe, lithomarge, and natural pozzolanic clay) 19. Fluorspar: (also called fluorite) 20. Garnet: Twelve percent. of average sale price on an ad valorem basis. Eight percent. of average sale price on an ad valorem basis. (i) Abrasive Four percent. of average sale price on an ad valorem basis. (ii) Gem Ten per cent. of average sale price on an ad valorem basis. 21. Gold: (i) Primary Four percent. of London Bullion Market Association Price (commonly referred to as London Price) chargeable on the gold metal in ore produced. (ii) By-product gold Three point three percent. of London Bullion Market Association Price (commonly referred to as London Price) chargeable on the by-product gold metal produced. ",
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	" 22. Graphite: (i) With 80 percent. or more fixed carbon (ii) With 40 percent. or more fixed carbon but less than 80 percent. fixed carbon (iii) With 20 percent. or more fixed carbon but less than 40 percent. fixed carbon (iv) With less than 20 percent. fixed carbon Two hundred and twenty-five rupees per tonne. One hundred and fifty rupees per tonne. Sixty-five rupees per tonne. Twenty-five rupees per tonne. 23. Gypsum: Twenty percent. of the average sale price on an ad valorem
+basis. 24. Iron Ore: (CLO, Lumps, fines, and concentrates all grades) Fifteen percent. of the average sale price on an ad valorem basis. 25. Lead:(a) Eight point five per cent. of London Metal Exchange Lead metal price chargeable on the contained lead metal in ore produced. (b) Fourteen point five percent. of London Metal Exchange Lead metal price chargeable on the contained lead metal in the concentrate produced.26. Limestone: (i) L. D. Grade (less than 1.5 percent. silica content) Ninety rupees per tonne. (ii) Others	Eighty rupees per tonne. 27. Lime kankar: Eighty rupees per tonne. 28. Lime shell: Eighty rupees per tonne. 29. Magnesite: Three percent. of average sale price on an ad valorem basis. 30. Manganese Ore: (i) Ore of all grade	Five percent. of the average sale price on an ad valorem basis. (ii) Concentrates One point seven percent. of the average sale price on an ad valorem basis. 31. Marl:	Sixty rupees per tonne. 32. Crude Mica, waste mica, and scrap mica: Four percent. of the average sale price on an ad valorem basis. 33. Monazite:	One hundred and twenty-five rupees per tonne. 34. Nickel:	Zero point one two percent. of London Metal Exchange Nickel metal price chargeable on the contained nickel metal in ore produced. 35. Ochre:	Twenty-four rupees per tonne. 36. Pyrites: Two percent. of the average sale price on an ad valorem basis. 37. Pyrophyllite:	Twenty percent. of the average sale price on an ad valorem basis. 38. Quartz:	Fifteen percent. of the average sale price on an ad valorem basis. 39. Ruby:	Ten percent. of the average sale price on an ad valorem basis. 40. Sand (others):	Twenty rupees per tonne.,
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	""" 41. Sand for stowing:** 42. Shale:	Sixty rupees per tonne. 43. Silica sand and molding sand and Quartzite: Ten percent. of the average sale price on an ad valorem basis. 44. Sillimanite:	Two point five percent. of the average sale price on an ad valorem basis. 45. Silver: (i) By-product	Seven percent. of London Metal Exchange Price chargeable on by-product silver metal produced. (ii) Primary Silver	Five percent. of London Metal Exchange Silver Metal Price chargeable on the contained silver metal in ore produced. 46. Slate:	Forty-five rupees per tonne. 47. Talc, Steatite, and Soapstone: Eighteen percent. of the average sale price on an ad valorem basis. 48. Tin:	Seven point five percent. of London Metal Exchange Tin metal price chargeable on the contained tin metal in ore produced.49. Tungsten: Twenty rupees per unit percent. of contained WO3 per tonne of ore and on a pro-rata basis. 50. Uranium:	Two percent. of annual compensation amount received by M/s. Uranium Corporation of India Ltd., to be apportioned among the States based on data provided by the Department of Atomic Energy.51. Vanadium:	Twenty percent. of the average sale price on an ad valorem basis. 52. Vermiculite:	Five percent. of the average sale price on an ad valorem basis. 53. Wollastonite:	Fifteen percent. of the average sale price on an ad valorem basis. 54. Zinc:	(a) Nine point five percent. of London Metal Exchange Zinc metal price on ad valorem basis chargeable on contained zinc metal in ore produced. (b) Ten percent. of London Metal Exchange Zinc metal price on ad valorem basis chargeable on contained zinc metal in concentrate produced. All other minerals not herein before specified (Agate, Corundum, Diaspore, Felsite, Fuchsite-Quartzite, Jasper, Kyanite, Perlite, Pyroxenite, Rock Salt, Selenite, etc.) """,
+	],
+},
+{
+ "role": "user",
+ "parts": [
+	"""
+Notified Minerals  1. Bauxite. 2. Iron ore. 3. Limestone. 4. Manganese ore.]  1[THE FOURTH SCHEDULE [See clause (ea.) of section 3]  1[THE FIFTH SCHEDULE [See sections 8(4), 8A(8) and 17A(2C)] S. No. Mineral Additional amount on grant or extension of mining lease 1. Iron ore and chromite Equivalent to one hundred and fifty percent. of the royalty payable 2. Copper Equivalent to fifty percent. of the royalty payable 3. Coal and lignite Equivalent to the royalty payable 4. Other minerals (other Equivalent to the royalty payable than coal and lignite) Equivalent to the royalty payable Explanation. For this Schedule, the additional amount shall be in addition to royalty or payment to the District Mineral Foundation and National Mineral Exploration Trust or any other statutory payment. THESIXTHSCHEDULE
+[See sections 8(5) and 8A(7A)] (i) For non-auctioned captive mines (other than coal and lignite): S. Nonminerals Additional Amount 1. Bauxite (i) Metallurgical Grade
+Equivalent to one hundred and fifty percent. of the royalty payable Non-Metallurgical Grade Equivalent to the royalty payable 2. Chromite (i) Up to forty percent. of Cr2O3 Equivalent to the royalty payable (ii) forty percent. and more of Cr2O3 and concentrates Equivalent to two hundred percent. of the royalty payable 3. Iron ore 
+Lumps, ROM, and concentrates Equivalent to two hundred and fifty percent. of the royalty payable Fines Equivalent to one hundred and fifty percent. of the royalty payable 4. Limestone L.D. Grade (less than 1.5 per cent. silica content) Equivalent to two hundred percent. of the (ii) Other grades Equivalent to the royalty payable """,
+	],
+},
+
+{
+ "role": "user",
+ "parts": [
+	"5. Manganese  (i) Less than thirty-five percent. of manganese content Equivalent to the royalty payable  (ii)	Thirty-five	percent.	and	above	of manganese content Equivalent to five hundred percent. of the royalty payable 6. Other minerals Equivalent to the royalty payable (ii) For auctioned captive mines (other than coal and lignite): S. No. Quantity of sale Additional Amount 1. Sale of minerals up to twenty-five percent. of annual production Nil 2. Sale of minerals more than twenty-five percent. and up to fifty percent. of annual production Equivalent to fifty percent. of the royalty payable (iii) For coal and lignite:
+S. No Type of mine Additional Amount 1. (i) Captive coal and lignite mines, auctioned for the power sector through reverse bidding under the Coal Mines (Special Provisions) Act, 2015 (11 of 2015) Equivalent to two hundred percent. of the royalty payable (ii) Captive coal and lignite mines allocated through allotment route [other than mines covered under item no. (iv)] Equivalent to the royalty payable (iii) Captive coal and lignite mines allocated through auction route [other than mines covered under item nos. (i) and (iv)] Equivalent to the royalty payable  (iv) For captive coal and lignite mines that were auctioned and allotted with a condition allowing the sale of coal up to twenty-five percent. of annual production (a) for the sale of coal up to twenty-five percent. of annual production Additional amount payable as per the condition mentioned in the tender document or allotment document (b) for sale of coal more than twenty-five percent. and up to fifty percent. of annual
+production Fifty percent. of the royalty payable Explanation.  For this Schedule, it is hereby clarified that (a) the additional amount shall be in addition to royalty or payment to the District Mineral Foundation and National Mineral Exploration Trust or any other statutory payment or payment specified in the tender document or the auction premium (wherever applicable). (b) Ad valorem royalty to calculate the additional amount for coal and lignite shall be based on National Coal Index and Representative Price of coal excluding the taxes, levies, and other charges.]",
+	],
+},
